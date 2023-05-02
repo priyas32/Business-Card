@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    
+   
+    
+}
+.pic{
+    width: 230px;
+    border: 1px solid wheat;
+   
+}
+.text{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: medium;
+    font-weight: normal;
+    justify-content: space-around;
+    padding: 50px;
+    margin: 250px auto;
+    width: 500px;
+    display: flex;
+    background-color: #ddebf8;
+    border-bottom: 10px solid #d8cefe;
+    color: #2b2839;
+    
+    
+}
+.border-blue{  /*utility class*/
+    border: 2px solid black;
+}
